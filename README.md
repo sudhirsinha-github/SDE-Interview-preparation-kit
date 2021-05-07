@@ -304,12 +304,3 @@ Here are possible drawbacks:
 
 [interview by rockoder](https://github.com/rockoder/interview)
 
-
-## Conclusion
-
-These are just pointer where you can get some more details about particular topic, but almost all of them required working knowledge for a deep dive and more thoughts on using the same.
-
-All the best for your next round :)
-
-Manas
-
