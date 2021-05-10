@@ -19,7 +19,10 @@ obfuscation is process to make anyone difficult to understand or copy the logic.
 
 
 ### Why reactive programming? what is reactive system?
-https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/
+[Reactive](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
+
+### How SSL works?
+[SSL](https://www.tutorialsteacher.com/https/how-ssl-works)
 
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
