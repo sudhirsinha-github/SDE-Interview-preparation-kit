@@ -24,6 +24,10 @@ obfuscation is process to make anyone difficult to understand or copy the logic.
 ### How SSL works?
 [SSL](https://www.tutorialsteacher.com/https/how-ssl-works)
 
+SSL offloading
+
+### Why Queue?
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
