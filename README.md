@@ -27,6 +27,12 @@ obfuscation is process to make anyone difficult to understand or copy the logic.
 SSL offloading
 
 ### Why Queue?
+https://stackify.com/message-queues-12-reasons/
+
+https://developers.redhat.com/blog/2016/08/10/persistence-vs-durability-in-messaging/
+
+### CAP
+[cap](https://www.ibm.com/cloud/learn/cap-theorem#toc-what-is-th-DXABpEgu)
 
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
