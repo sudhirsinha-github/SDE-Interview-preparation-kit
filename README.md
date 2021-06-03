@@ -34,6 +34,11 @@ https://developers.redhat.com/blog/2016/08/10/persistence-vs-durability-in-messa
 ### CAP
 [cap](https://www.ibm.com/cloud/learn/cap-theorem#toc-what-is-th-DXABpEgu)
 
+https://www.educative.io/edpresso/what-is-the-cap-theorem
+
+https://phoenixnap.com/kb/acid-vs-base
+
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
