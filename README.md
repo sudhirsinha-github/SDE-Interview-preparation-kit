@@ -38,6 +38,13 @@ https://www.educative.io/edpresso/what-is-the-cap-theorem
 
 https://phoenixnap.com/kb/acid-vs-base
 
+##SQL vs NOSQL
+Why SQL or nosql
+Non /Structured Data - dbms optimised 
+Model evolves around period of time , Data is not fixed 
+No transaction 
+acid vs base
+Scaling 
 
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
