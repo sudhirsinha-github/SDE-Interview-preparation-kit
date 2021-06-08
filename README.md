@@ -46,6 +46,10 @@ No transaction
 acid vs base
 Scaling 
 
+
+### cahce design patterns
+https://www.baeldung.com/cs/cache-write-policy
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
