@@ -50,6 +50,18 @@ Scaling
 ### cahce design patterns
 https://www.baeldung.com/cs/cache-write-policy
 
+
+### JAVA vs NodeJS 
+
+- Java supports multithreading Nodejs doesn't. Nodejs is suited for small size application.
+- Garbarge collection for handling objects is good . In case of nodejs , it is not and for high load in complex app,nodejs cpu utilization spikes high.
+- Java have OOPS, object oriented concepts that makes well managed. Like access modifier,etc. Node js is lagging in this.
+- Exceeption handling is beautiful and we can throw custom exceptions.
+- CPU intensive task required huge computational power that can be handled with Java, whereas I/O bound operations like real-time chat, media streaming etc., can be handled well with Node JS.
+- community support and java is well used globally, so java is clear winner.
+
+https://www.educba.com/java-vs-node-js/
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
