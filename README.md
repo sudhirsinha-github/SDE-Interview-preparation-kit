@@ -62,6 +62,15 @@ https://www.baeldung.com/cs/cache-write-policy
 
 https://www.educba.com/java-vs-node-js/
 
+
+### why nginx?
+
+- Reverse proxy hiding servers (load balancing)
+- Capture request and response logs from ui to microservices , tracking failures 5xx,4xx
+- Custom error pages - 4xx for micro fronend ui
+- request caching 
+- hiding application details like 
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
