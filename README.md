@@ -71,6 +71,56 @@ https://www.educba.com/java-vs-node-js/
 - request caching 
 - hiding application details like 
 
+### Low latency and high throughput . How to achieve low latency in a app??
+
+#### GC free logging - Log4J
+  Garbage collection pauses are a common cause of latency spikes, many logging libraries slf4j, including previous versions of Log4j, allocate temporary objects like log event objects, Strings, char arrays, byte arrays and more during steady state logging. This contributes to pressure on the garbage collector and increases the frequency with which GC pauses occur/GC run .
+  From version 2.6, Log4j runs in "garbage free" mode by default where objects and buffers are reused and no temporary objects are allocated as much as possible.
+http://www.rationaljava.com/ 
+
+#### Use StringBuilder 
+ for heavy string manipulation so that don't keep creating new objects of string that forces GC run
+
+#### Use Pools for thread, DB, files,etc.
+
+#### Compressed OOPs is by default in Java8
+you can keep more objects in cache
+
+#### how Java 8 lambda helps ?
+
+Lambdas are like anonymous inner classes, however they are assigned to static variables if they don’t capture anything.
+
+```js
+public static Runnable helloWorld() { //lambda
+return () -> System.out.println("Hello World"); }
+
+
+public static Consumer<String> printMe() { //not lambda
+// may create a new object each time = Garbage.
+return System.out::println; }
+
+
+public static Consumer<String> printMe2() { //lambda
+return x -> System.out.println(x); }
+
+```
+
+```js
+Runnable r1 = helloWorld();
+Runnable r2 = helloWorld();
+System.out.println(r1 == r2); // prints true
+
+Consumer<String> c1 = printMe();
+Consumer<String> c2 = printMe(); 
+System.out.println(c1 == c2); // prints false
+
+Consumer<String> c3 = printMe2(); 
+Consumer<String> c4 = printMe2(); 
+System.out.println(c3 == c4); // prints true
+
+```
+ 
+
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 
