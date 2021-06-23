@@ -13,7 +13,11 @@ in both cases, followed by MongoDB and Couchbase. postgres is worse
 
 4. Read/fetching - Mongodb is fastest with huge data. couchbase faster in read cmp to postgresDB
 
-Conclusion :: Couchdb is good in performance for insert updates delete . Mongo is fasterst in read but  slower in insert .
+Conclusion :: 
+Couchdb is good in performance for insert updates delete . Mongo is faster in read slower in insert .
+Mongo we can update a field in document like rdbms,it's atomic.
+Couchbase is document update and less flexible compared with Mongo. So if we need relational 
+db like atomic update with better performance then Mongo.
 
 Between the document oriented databases CouchDB has an
 overall very good performance time for the INSERT, UPDATE
