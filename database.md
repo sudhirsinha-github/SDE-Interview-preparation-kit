@@ -2,7 +2,7 @@
 
 ### Performance comparison for CRUD wih single node and distributed nodes 
 
-```js
+```
 1. The performance time of Couchbase is very similar with the performance time
 of PostgreSQL for insert with same system configuration. CouchDB is exponentially faster
 
