@@ -73,6 +73,14 @@ https://www.educba.com/java-vs-node-js/
 
 ### Low latency and high throughput . How to achieve low latency in a app??
 
+#### pagination with offset for partial response
+
+#### Indexing in DB calls
+
+#### PATCH over PUT
+If the requirement at client end is to update only a small subset of the REST resource,   
+it is advisable to use a PATCH over PUT command so that network saves bandwidth . PUT would require the whole data to be sent to the REST server
+
 #### GC free logging - Log4J
   Garbage collection pauses are a common cause of latency spikes, many logging libraries slf4j, including previous versions of Log4j, allocate temporary objects like log event objects, Strings, char arrays, byte arrays and more during steady state logging. This contributes to pressure on the garbage collector and increases the frequency with which GC pauses occur/GC run .
   From version 2.6, Log4j runs in "garbage free" mode by default where objects and buffers are reused and no temporary objects are allocated as much as possible.
