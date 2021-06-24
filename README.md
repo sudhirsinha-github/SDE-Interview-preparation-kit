@@ -86,7 +86,7 @@ http://www.rationaljava.com/
 #### Compressed OOPs is by default in Java8
 you can keep more objects in cache
 
-#### how Java 8 lambda helps ?
+#### how Java 8 lambda helps for latency?
 
 Lambdas are like anonymous inner classes, however they are assigned to static variables if they don’t capture anything.
 
@@ -119,7 +119,17 @@ Consumer<String> c4 = printMe2();
 System.out.println(c3 == c4); // prints true
 
 ```
- 
+
+#### caching ,varrnish cache server, EH cache in Java
+
+#### Asynchronous and messaging tools
+
+#### Load balancer, CDN, apigee throtttling based on client keys
+
+#### using http2 as it used single tcp conn to send data in parallel. compress headers.
+
+#### use gzip,brrotli to compress js,css and even api response. However it will use extra cpu cycles for decompress.
+
 
 ## Developers Roadmap
 [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
