@@ -50,6 +50,9 @@ Scaling
 ### cahce design patterns
 https://www.baeldung.com/cs/cache-write-policy
 
+Screenshot 2021-04-27 at 12.31.55 AM<img width="1654" alt="Screenshot 2021-04-27 at 12 31 55 AM" src="https://user-images.githubusercontent.com/16834697/123817846-1f25a200-d916-11eb-9f33-3243fdc02dbd.png">
+
+
 
 ### JAVA vs NodeJS 
 
