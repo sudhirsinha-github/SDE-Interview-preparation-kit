@@ -66,7 +66,7 @@ productcategory
 coupon -> get details 
 product -> produ
 
-
+```js
 ##scehema
 sql
 
@@ -95,6 +95,7 @@ productcategoryID
 createdOn...
 }
 
+```
 
 
 ![image](https://user-images.githubusercontent.com/16834697/123419846-5a536880-d5d8-11eb-881e-789a42c7617e.png)
