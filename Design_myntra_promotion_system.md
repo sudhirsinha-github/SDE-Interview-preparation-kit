@@ -35,7 +35,7 @@ Coupon
   ### - Apply ( validate )
 
 Rest API
-
+```
 Admin -
 
 GET /coupons
@@ -65,6 +65,7 @@ productcategory
 
 coupon -> get details 
 product -> produ
+```
 
 ```js
 ##scehema
