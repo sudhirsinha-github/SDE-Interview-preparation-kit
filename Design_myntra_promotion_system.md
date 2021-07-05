@@ -105,13 +105,15 @@ createdOn...
 
 Things to consider for any design/checklist
 
-
+```
 1. Functional requirements 
 2.nfr
 3. Capacity estimates - calculate 
 4. Hld 
 5. Db schema sqlvs nosql
-6.component design LLD
-7. Db partitions sharding
-8. Monitoring,Alerts
-9. Improvments
+6. Rest api
+7.component design LLD
+8. Db partitions sharding
+9. Monitoring,Alerts
+10. Improvments
+```
