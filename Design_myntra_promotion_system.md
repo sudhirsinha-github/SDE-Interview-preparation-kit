@@ -99,3 +99,19 @@ createdOn...
 
 
 ![image](https://user-images.githubusercontent.com/16834697/123419846-5a536880-d5d8-11eb-881e-789a42c7617e.png)
+
+
+
+
+Things to consider for any design/checklist
+
+
+1. Functional requirements 
+2.nfr
+3. Capacity estimates - calculate 
+4. Hld 
+5. Db schema sqlvs nosql
+6.component design LLD
+7. Db partitions sharding
+8. Monitoring,Alerts
+9. Improvments
