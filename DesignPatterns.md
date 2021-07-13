@@ -36,9 +36,10 @@ DP are solutions to existing problem. DP are divided into three main -
 #### FlyWeight DP
 It helps to decrease count of number of similar objects created in app, it helps to overcome OutOfMemory error
 Object created here are immutable 
-As we minimizing creation of objects by sharing, it will be faster 
+As we minimizing creation of objects by sharing, it will be faster with low latency(GC will be less)
 
-In flyweight , we use hashmap where wey store key and object. when as user ask for object with given key we return it or create and return it.
+In flyweight , we use **hashmap** where wey store key and object value. when as user ask for object with given key we return it or create and return it.
+
 
 
 
