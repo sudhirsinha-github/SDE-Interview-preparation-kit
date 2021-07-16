@@ -20,7 +20,7 @@ Comparable(compareTo method) is used for natural orderling of Person.age , where
 https://www.edureka.co/blog/java-collections/
 
 
-
+```
 Immutability
 Serialization   & de-serialization 
 Singleton - multiple instances( read resolve)
@@ -46,3 +46,4 @@ blank final var
 Spring boot, 
 
 config server 
+```
