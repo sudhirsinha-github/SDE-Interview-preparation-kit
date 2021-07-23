@@ -115,6 +115,8 @@ Things to consider for any design/checklist
 6. Rest api
 7.component design LLD
 8. Db partitions sharding
+9. Scaling - Vertical and horizontal 
+- Microservices Architecture 
 9. Monitoring,Alerts
 10. Improvments
 ```
