@@ -110,6 +110,8 @@ consumer.wakeup();
 ```
 
 #### types -
+```
 >Consumers Equal Number of Partitions
 > Single Consumer:
 > Partitions in a topic are greater than the number of consumers in a group
+```
