@@ -120,3 +120,18 @@ Things to consider for any design/checklist
 9. Monitoring,Alerts
 10. Improvments
 ```
+
+
+```
+00:00:00 Introduction
+00:00:44 Design a reservation and payment system for a parking garage
+00:01:08 Product requirements
+00:03:11 Public endpoints
+00:05:47 Internal endpoints
+00:09:35 Scale Discussion
+00:11:11 Data schema
+00:20:06 High-level architecture
+00:23:31 Trade-offs
+00:26:48 Interview feedback
+00:28:39 Advice for similar questions
+```
