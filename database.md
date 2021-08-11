@@ -35,3 +35,15 @@ choice when it comes to intensive data processing applications.
 ```
 
 <img width="590" alt="Screenshot 2021-08-07 at 5 34 47 PM" src="https://user-images.githubusercontent.com/16834697/128984248-0232d1e5-b42c-48cd-b916-737867cd1374.png">
+
+
+<img width="473" alt="Screenshot 2021-08-11 at 12 33 55 PM" src="https://user-images.githubusercontent.com/16834697/128984468-54f54bc1-18aa-42ba-a859-c2924f3bb84f.png">
+
+<img width="516" alt="Screenshot 2021-08-11 at 12 34 08 PM" src="https://user-images.githubusercontent.com/16834697/128984483-521bca4a-40d6-42d3-8b90-9e41c8ba30d4.png">
+
+
+<img width="544" alt="Screenshot 2021-08-11 at 12 34 21 PM" src="https://user-images.githubusercontent.com/16834697/128984505-db54fcda-d23b-442c-a51c-705e1d623892.png">
+
+
+
+
