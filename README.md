@@ -69,6 +69,7 @@ https://www.educba.com/java-vs-node-js/
 ### why nginx?
 
 - Reverse proxy hiding servers (load balancing)
+- Centralized logging capabilities 
 - Capture request and response logs from ui to microservices , tracking failures 5xx,4xx
 - Custom error pages - 4xx for micro fronend ui
 - request caching 
