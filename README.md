@@ -21,6 +21,9 @@ obfuscation is process to make anyone difficult to understand or copy the logic.
 ### Why reactive programming? what is reactive system?
 [Reactive](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
 
+Flux - 
+https://medium.com/@rarepopa_68087/reactive-programming-with-spring-boot-and-webflux-734086f8c8a5
+
 ### How SSL works?
 [SSL](https://www.tutorialsteacher.com/https/how-ssl-works)
 
